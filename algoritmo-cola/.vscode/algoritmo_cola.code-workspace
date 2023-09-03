@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.css": "css",
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
